@@ -1,4 +1,4 @@
-# hello_world
+# the_dupe
 Sample repository
 
 I love eating 🍔 with 🍟.
