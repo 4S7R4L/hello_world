@@ -1,4 +1,4 @@
 # hello_world
 Sample repository
 
-I love drinking ☕.
+I love eating 🍔 with 🍟.
